@@ -1,0 +1,38 @@
+.img-container
+{
+    width:200px;
+    padding:25px;
+    text-align: center;
+}
+.skillname
+{
+    text-align: center;
+
+    font-family: 'Times New Roman', Times, serif;
+
+}   
+.skillwriteup
+{
+    height:100px;
+    text-align: justify;
+    text-align: center;
+
+} 
+.tile
+{
+    background-color: rgba(255, 230, 0, 0.842);
+    height: 50%;
+    width: 80%;
+    
+    margin-bottom: 10px;
+}
+img
+{
+    height: 30%;
+    width:30%;
+}
+.column
+{
+    padding:10px;
+}
+
